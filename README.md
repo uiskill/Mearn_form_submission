@@ -1,3 +1,21 @@
+
+# Technology Used
+1) React Js,Mongodb, Express js, Node Js
+2) React-Bootsrap, Axios
+
+
+# Functions
+1) User Can Fill Registration Form
+2) Registration Data Updated in Table
+3) User Can delete Data, search Data & Download Data using CSV File
+4) Use Pagination On table Reocrd
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
